@@ -5,4 +5,4 @@ def
   fizz_4 = fizzbuzz(4)
 end
 
-if 
+if gets.strip =
